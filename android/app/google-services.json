@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34175926526",
+    "project_id": "ninja-brew-crew-coffe",
+    "storage_bucket": "ninja-brew-crew-coffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34175926526:android:60370f3f93bb0c5f80e5af",
+        "android_client_info": {
+          "package_name": "com.example.ninja_brew_crew_coffre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CWfxWaOQdbHbHotqhlyYJc39TPj99xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
